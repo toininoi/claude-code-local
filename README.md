@@ -68,6 +68,24 @@
 ---
 
 <p align="center">
+  <h3 align="center">🖥️ Don't want to DIY? Get this stack on a Mac mini, ready to plug in.</h3>
+  <p align="center">
+    <em>The AirGap Box ships a pre-configured Mac mini to your office with this stack, a 31B-parameter language model, and three working agents already installed.<br>One-time price. No subscription. Founding-customer pricing for the first 5 buyers.</em>
+  </p>
+  <p align="center">
+    <a href="https://nicedreamzwholesale.com/airgap-box/">
+      <img src="https://img.shields.io/badge/🖥️_AirGap_Box-Pre--configured_Mac_mini_%E2%80%94_Waitlist_Open-1f5d3a?style=for-the-badge" alt="AirGap Box waitlist">
+    </a>
+    &nbsp;
+    <a href="https://nicedreamzwholesale.com/product/airgap-agents/">
+      <img src="https://img.shields.io/badge/⚡_Agent_Pack-%2419_one--time-c79100?style=for-the-badge" alt="AirGap Agents $19 one-time">
+    </a>
+  </p>
+</p>
+
+---
+
+<p align="center">
   <h2 align="center">🏁 HEXAGON SHOOTOUT — Free AI vs $100/mo Claude Code</h2>
   <p align="center">
     <strong>Three AIs. One laptop. Same prompt. Live counters.<br>
